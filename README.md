@@ -1,8 +1,6 @@
 ### Hello World!
 
-I am a London-based software development professional with a passion for React JS and UI/UX design. My track record showcases a history of successfully leading web-based technology projects and consistently delivering exceptional results. I possess a wide-ranging technical expertise, from React JS and Redux to GraphQL and Node.js. 
-
-My true strength lies in translating complex business requirements into precise technical solutions, guiding projects to success from their inception to seamless implementation. My leadership skills and effective communication abilities have allowed me to excel as a team leader and collaborator. Backed by a robust portfolio and a history of impactful contributions to high-profile projects, I have become a highly sought-after talent in the software development and UI/UX design field. 
+I am a London-based software development professional with expertise in React JS, Node.js and many other relevant technologies. My track record demonstrates my ability to lead web-based technology projects and deliver exceptional results. I excel at translating complex business requirements into precise technical solutions. With strong leadership skills and effective communication, I am a sought-after talent in software development and UI/UX design.
 
 Explore my portfolio: https://sungharsh.github.io/.
 <!--
